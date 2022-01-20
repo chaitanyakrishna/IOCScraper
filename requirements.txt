@@ -1,0 +1,6 @@
+argparse
+requests
+pandas
+pyfiglet
+json5
+colorama
